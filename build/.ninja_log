@@ -1,0 +1,7 @@
+# ninja log v5
+1	377	1639734519852405411	CMakeFiles/myterminal.dir/stb_image.c.o	7d0904251478c13
+1	287	1639734519758894675	CMakeFiles/myterminal.dir/shader.c.o	96b70b7bde4c83d9
+1	294	1639734519769136646	CMakeFiles/myterminal.dir/glad.c.o	103b92ec965b94f6
+2	367	1639762348811926175	CMakeFiles/myterminal.dir/main.c.o	8f458562638650ed
+1	287	1639734519758282674	CMakeFiles/myterminal.dir/pty.c.o	8580d04315409c7a
+367	471	1639762348917905704	myterminal	5e8edf25d1d43e02

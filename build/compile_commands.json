@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/ms/Desktop/myterminal/build",
+  "command": "/usr/bin/clang -I/Users/ms/Desktop/myterminal/./include -isystem /opt/homebrew/include/freetype2 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu99 -o CMakeFiles/myterminal.dir/main.c.o -c /Users/ms/Desktop/myterminal/main.c",
+  "file": "/Users/ms/Desktop/myterminal/main.c"
+},
+{
+  "directory": "/Users/ms/Desktop/myterminal/build",
+  "command": "/usr/bin/clang -I/Users/ms/Desktop/myterminal/./include -isystem /opt/homebrew/include/freetype2 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu99 -o CMakeFiles/myterminal.dir/glad.c.o -c /Users/ms/Desktop/myterminal/glad.c",
+  "file": "/Users/ms/Desktop/myterminal/glad.c"
+},
+{
+  "directory": "/Users/ms/Desktop/myterminal/build",
+  "command": "/usr/bin/clang -I/Users/ms/Desktop/myterminal/./include -isystem /opt/homebrew/include/freetype2 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu99 -o CMakeFiles/myterminal.dir/stb_image.c.o -c /Users/ms/Desktop/myterminal/stb_image.c",
+  "file": "/Users/ms/Desktop/myterminal/stb_image.c"
+},
+{
+  "directory": "/Users/ms/Desktop/myterminal/build",
+  "command": "/usr/bin/clang -I/Users/ms/Desktop/myterminal/./include -isystem /opt/homebrew/include/freetype2 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu99 -o CMakeFiles/myterminal.dir/pty.c.o -c /Users/ms/Desktop/myterminal/pty.c",
+  "file": "/Users/ms/Desktop/myterminal/pty.c"
+},
+{
+  "directory": "/Users/ms/Desktop/myterminal/build",
+  "command": "/usr/bin/clang -I/Users/ms/Desktop/myterminal/./include -isystem /opt/homebrew/include/freetype2 -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu99 -o CMakeFiles/myterminal.dir/shader.c.o -c /Users/ms/Desktop/myterminal/shader.c",
+  "file": "/Users/ms/Desktop/myterminal/shader.c"
+}
+]

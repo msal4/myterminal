@@ -1,0 +1,3 @@
+/Users/ms/Desktop/myterminal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ms/Desktop/myterminal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ms/Desktop/myterminal/cmake-build-debug/CMakeFiles/myterminal.dir
